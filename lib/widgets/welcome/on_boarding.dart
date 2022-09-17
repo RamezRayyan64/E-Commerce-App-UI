@@ -1,6 +1,6 @@
-import 'package:e_commerce/utilities/constants.dart';
-import 'package:e_commerce/utilities/size_config.dart';
-import 'package:e_commerce/widgets/welcome/top_texts_widget.dart';
+import 'package:e_commerce_app_ui/utilities/constants.dart';
+import 'package:e_commerce_app_ui/utilities/size_config.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/top_texts_widget.dart';
 import 'package:flutter/material.dart';
 
 class OnBoardingWidget extends StatelessWidget {

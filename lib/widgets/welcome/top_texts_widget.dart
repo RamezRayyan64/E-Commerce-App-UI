@@ -1,4 +1,4 @@
-import 'package:e_commerce/utilities/size_config.dart';
+import 'package:e_commerce_app_ui/utilities/size_config.dart';
 import 'package:flutter/material.dart';
 
 class TopTextsWidget extends StatelessWidget {

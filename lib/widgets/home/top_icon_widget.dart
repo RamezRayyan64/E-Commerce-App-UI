@@ -1,5 +1,5 @@
-import 'package:e_commerce/utilities/constants.dart';
-import 'package:e_commerce/widgets/home/rounded_icon_widget.dart';
+import 'package:e_commerce_app_ui/utilities/constants.dart';
+import 'package:e_commerce_app_ui/widgets/home/rounded_icon_widget.dart';
 import 'package:flutter/material.dart';
 
 class TopIconsWidget extends StatelessWidget {

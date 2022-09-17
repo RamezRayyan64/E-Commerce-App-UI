@@ -1,11 +1,11 @@
 import 'dart:async';
 
-import 'package:e_commerce/utilities/constants.dart';
-import 'package:e_commerce/screens/welcome/successful_registration_screen.dart';
-import 'package:e_commerce/widgets/welcome/otp_verification_form_widget.dart';
-import 'package:e_commerce/widgets/welcome/otp_verification_textfield_widget.dart';
-import 'package:e_commerce/widgets/welcome/rounded_button.dart';
-import 'package:e_commerce/widgets/welcome/top_texts_widget.dart';
+import 'package:e_commerce_app_ui/utilities/constants.dart';
+import 'package:e_commerce_app_ui/screens/welcome/successful_registration_screen.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/otp_verification_form_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/otp_verification_textfield_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/rounded_button.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/top_texts_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

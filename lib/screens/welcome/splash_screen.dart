@@ -1,8 +1,8 @@
-import 'package:e_commerce/utilities/constants.dart';
-import 'package:e_commerce/screens/welcome/sign_in_screen.dart';
-import 'package:e_commerce/utilities/size_config.dart';
-import 'package:e_commerce/widgets/welcome/on_boarding.dart';
-import 'package:e_commerce/widgets/welcome/rounded_button.dart';
+import 'package:e_commerce_app_ui/utilities/constants.dart';
+import 'package:e_commerce_app_ui/screens/welcome/sign_in_screen.dart';
+import 'package:e_commerce_app_ui/utilities/size_config.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/on_boarding.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/rounded_button.dart';
 import 'package:flutter/material.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -1,11 +1,11 @@
-import 'package:e_commerce/screens/welcome/sign_in_screen.dart';
-import 'package:e_commerce/widgets/welcome/account_state_widget.dart';
-import 'package:e_commerce/widgets/welcome/error_widget.dart';
-import 'package:e_commerce/widgets/welcome/form_text_field_widget.dart';
-import 'package:e_commerce/widgets/welcome/rounded_button.dart';
-import 'package:e_commerce/widgets/welcome/sign_in_form_widget.dart';
-import 'package:e_commerce/widgets/welcome/social_icon_widget.dart';
-import 'package:e_commerce/widgets/welcome/top_texts_widget.dart';
+import 'package:e_commerce_app_ui/screens/welcome/sign_in_screen.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/account_state_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/error_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/form_text_field_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/rounded_button.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/sign_in_form_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/social_icon_widget.dart';
+import 'package:e_commerce_app_ui/widgets/welcome/top_texts_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

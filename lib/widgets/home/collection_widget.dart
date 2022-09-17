@@ -1,4 +1,4 @@
-import 'package:e_commerce/screens/home/see_more_screen.dart';
+import 'package:e_commerce_app_ui/screens/home/see_more_screen.dart';
 import 'package:flutter/material.dart';
 
 class CollectionWidget extends StatelessWidget {

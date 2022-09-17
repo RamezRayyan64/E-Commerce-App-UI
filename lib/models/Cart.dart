@@ -1,4 +1,4 @@
-import 'package:e_commerce/models/product.dart';
+import 'package:e_commerce_app_ui/models/product.dart';
 
 class Cart {
   final Product product;
